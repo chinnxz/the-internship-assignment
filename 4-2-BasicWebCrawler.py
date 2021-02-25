@@ -45,3 +45,5 @@ def index():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+#run the API request on http://localhost:5000/company
